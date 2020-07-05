@@ -1,0 +1,6 @@
+data,classificacao,faixa_etaria,feminino,masculino,total,ultima_atualizacao
+2020-07-01,confirmados,,27,15,42,false
+2020-07-01,mortos,,0,1,1,true
+2020-07-04,confirmados,,1,1,2,False
+
+
