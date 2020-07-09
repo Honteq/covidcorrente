@@ -8,7 +8,7 @@ data,bairro,confirmadosPorDia,confirmadosAcumulados,mortesPorDia,mortesAcumulada
 2020-07-01,Nova Corrente,0,6,0,0,true
 2020-07-01,Jacolandia,0,1,0,0,true
 2020-07-01,Primavera,0,1,0,0,true
-2020-07-01,Morro do Pequi,0,4,0,0,true
+2020-07-01,Morro do Pequi,0,4,1,1,true
 2020-07-01,Aeroporto,0,6,0,0,true
 2020-07-01,Santa Marta,0,2,0,0,true
 2020-07-01,Barreirao,0,2,0,0,true
