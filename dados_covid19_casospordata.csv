@@ -7,6 +7,7 @@ data,confirmadosPorDia,confirmadosAcumulados,mortesPorDia,mortesAcumuladas,desca
 2020-07-14,0,56,0,1,1290,2,3,47,false
 2020-07-15,0,56,0,1,1302,2,1,49,false
 2020-07-17,0,61,0,1,1407,2,11,52,false
-2020-07-20,0,66,0,1,1507,2,30,53,true
+2020-07-20,0,66,0,1,1507,2,30,53,false
+2020-07-21,0,70,0,1,1720,3,11,54,true
 
 
