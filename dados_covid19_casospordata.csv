@@ -26,4 +26,5 @@ data,confirmadosPorDia,confirmadosAcumulados,mortesPorDia,mortesAcumuladas,desca
 2020-08-16,0,139,0,2,2652,1,22,94,false
 2020-08-18,0,146,0,2,2750,3,39,107,false
 2020-08-19,0,148,0,2,2820,3,37,111,false
-2020-08-20,0,152,0,2,2900,4,29,121,true
+2020-08-20,0,152,0,2,2900,4,29,121,false
+2020-08-21,0,155,0,2,2950,4,27,126,true
