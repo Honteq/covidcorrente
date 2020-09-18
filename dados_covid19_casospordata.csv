@@ -39,4 +39,5 @@ data,confirmadosPorDia,confirmadosAcumulados,mortesPorDia,mortesAcumuladas,desca
 2020-09-05,0,264,0,3,3980,1,63,208,fase
 2020-09-10,0,299,0,3,4250,0,72,224,false
 2020-09-12,0,316,0,3,4320,0,103,253,false
-2020-09-16,0,341,0,3,4470,1,72,295,true
+2020-09-16,0,341,0,3,4470,1,72,295,false
+2020-09-17,0,348,0,3,4500,0,72,296,true
