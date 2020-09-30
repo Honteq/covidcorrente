@@ -44,4 +44,4 @@ data,confirmadosPorDia,confirmadosAcumulados,mortesPorDia,mortesAcumuladas,desca
 2020-09-19,0,363,0,3,4596,0,37,298,false
 2020-09-21,0,371,0,3,4630,0,61,302,false
 2020-09-24,0,388,0,4,4731,1,95,333,false
-2020-09-29,0,420,0,5,4917,1,32,355,true
+2020-09-29,0,420,0,5,4917,2,32,355,true
